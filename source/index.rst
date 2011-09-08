@@ -4,43 +4,60 @@ How to Think Like a Computer Scientist
 .. image:: _static/gasp_lessons.png
     :alt: GASP Logo
 
-Learning with Python
---------------------
 
-2nd Edition (Using Python 2.x)
+Learning with Python 3 (RLE)
+---------------------------- 
 
-by Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+3rd Edition (Using Python 3.x)
 
+by Peter Wentworth, Jeffrey Elkner, Allen B. Downey, and Chris Meyers
+
+  (based on 2nd edition by Jeffrey Elkner, Allen B. Downey, and Chris Meyers)
+
+Other variations of this book may suit you better. See http://www.openbookproject.net/thinkcs
+  
+Corresponding author: p.wentworth@ru.ac.za
+
+Source for this RLE version:  https://code.launchpad.net/~thinkcspy-rle-team/thinkcspy/thinkcspy3-rle
+  
 * `Copyright Notice <copyright.html>`__ 
 * `Foreword <foreword.html>`__
 * `Preface <preface.html>`__
+* `Preface-3 <preface3-rle.html>`__ *This Rhodes Local Edition (RLE) of the book* 
 * `Contributor List <contrib.html>`__
-* `Chapter 1 <ch01.html>`__ *The way of the program*
-* `Chapter 2 <ch02.html>`__ *Variables, expressions, and statements*
-* `Chapter 3 <ch03.html>`__ *Functions*
-* `Chapter 4 <ch04.html>`__ *Conditionals*
-* `Chapter 5 <ch05.html>`__ *Fruitful functions*
-* `Chapter 6 <ch06.html>`__ *Iteration*
-* `Chapter 7 <ch07.html>`__ *Strings*
-* `Chapter 8 <ch08.html>`__ *Case Study: Catch*
-* `Chapter 9 <ch09.html>`__ *Lists*
-* `Chapter 10 <ch10.html>`__ *Modules and files*
-* `Chapter 11 <ch11.html>`__ *Recursion and exceptions*
-* `Chapter 12 <ch12.html>`__ *Dictionaries*
-* `Chapter 13 <ch13.html>`__ *Classes and objects*
-* `Chapter 14 <ch14.html>`__ *Classes and functions*
-* `Chapter 15 <ch15.html>`__ *Classes and methods*
-* `Chapter 16 <ch16.html>`__ *Sets of Objects*
-* `Chapter 17 <ch17.html>`__ *Inheritance*
-* `Chapter 18 <ch18.html>`__ *Linked Lists*
-* `Chapter 19 <ch19.html>`__ *Stacks*
-* `Chapter 20 <ch20.html>`__ *Queues*
-* `Chapter 21 <ch21.html>`__ *Trees*
+* `Chapter 1 <way_of_the_program.html>`__ *The way of the program*
+* `Chapter 2 <variables_expressions_statements.html>`__ *Variables, expressions, and statements*
+* `Chapter 3 <hello_little_turtles.html>`__ *Hello, little turtles!*  
+* `Chapter 4 <functions.html>`__ *Functions*
+* `Chapter 5 <conditionals.html>`__ *Conditionals*
+* `Chapter 6 <fruitful_functions.html>`__ *Fruitful functions*
+* `Chapter 7 <iteration.html>`__ *Iteration*
+* `Chapter 8 <strings.html>`__ *Strings*
+* `Chapter 9 <tuples.html>`__ *Tuples*
+* `Chapter 10 <events.html>`__ *Event handling*
+* `Chapter 11 <lists.html>`__ *Lists*
+* `Chapter 12 <modules.html>`__ *Modules*
+* `Chapter 13 <files.html>`__ *Files*
+* `Chapter 14 <list_algorithms.html>`__ *List Algorithms*
+* `Chapter 15 <classes_and_objects_I.html>`__ *Classes and Objects - the Basics*
+* `Chapter 16 <classes_and_objects_II.html>`__ *Classes and Objects - Digging a little deeper*
+* `Chapter 17 <pygame.html>`__ *PyGame*
+* `Chapter 18 <recursion.html>`__ *Recursion*
+* `Chapter 19 <exceptions.html>`__ *Exceptions*
+* `Chapter 20 <dictionaries.html>`__ *Dictionaries*
+* `Chapter 21 <even_more_oop.html>`__ *Even more OOP*
+* `Chapter 22 <sets.html>`__ *Sets of Objects*
+* `Chapter 23 <inheritance.html>`__ *Inheritance*
+* `Chapter 24 <linked_lists.html>`__ *Linked Lists*
+* `Chapter 25 <stacks.html>`__ *Stacks*
+* `Chapter 26 <queues.html>`__ *Queues*
+* `Chapter 27 <trees.html>`__ *Trees*
 * `Appendix A <app_a.html>`__ *Debugging*
-* `Appendix B <app_b.html>`__ *GASP*
-* `Appendix c <app_c.html>`__ *Configuring Ubuntu for Python Development*
+* `Appendix B <app_b.html>`__ *An odds-and-ends Workbook*
+* `Appendix C <app_c.html>`__ *Configuring Ubuntu for Python Development*
 * `Appendix D <app_d.html>`__ *Customizing and Contributing to the Book*
 * `GNU Free Document License <fdl-1.3.html>`__ 
+
 
 .. toctree::
     :maxdepth: 1
@@ -49,6 +66,7 @@ by Jeffrey Elkner, Allen B. Downey, and Chris Meyers
     copyright.rst
     foreword.rst
     preface.rst
+    preface3-rle.rst
     contrib.rst
 
 .. toctree::
@@ -56,27 +74,33 @@ by Jeffrey Elkner, Allen B. Downey, and Chris Meyers
     :numbered:
     :hidden:
 
-    ch01.rst
-    ch02.rst
-    ch03.rst
-    ch04.rst
-    ch05.rst
-    ch06.rst
-    ch07.rst
-    ch08.rst
-    ch09.rst
-    ch10.rst
-    ch11.rst
-    ch12.rst
-    ch13.rst
-    ch14.rst
-    ch15.rst
-    ch16.rst
-    ch17.rst
-    ch18.rst
-    ch19.rst
-    ch20.rst
-    ch21.rst
+    way_of_the_program.rst
+    variables_expressions_statements.rst
+    hello_little_turtles.rst
+    functions.rst
+    conditionals.rst
+    fruitful_functions.rst
+    iteration.rst
+    strings.rst
+    tuples.rst
+    events.rst
+    lists.rst
+    modules.rst
+    files.rst
+    list_algorithms.rst
+    classes_and_objects_I.rst
+    classes_and_objects_II.rst
+    pygame.rst
+    recursion.rst
+    exceptions.rst
+    dictionaries.rst
+    even_more_oop.rst
+    sets.rst
+    inheritance.rst
+    linked_lists.rst
+    stacks.rst
+    queues.rst
+    trees.rst
 
 .. toctree::
     :maxdepth: 1
