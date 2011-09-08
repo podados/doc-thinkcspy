@@ -68,12 +68,6 @@ Source for this RLE version:  https://code.launchpad.net/~thinkcspy-rle-team/thi
     preface.rst
     preface3-rle.rst
     contrib.rst
-
-.. toctree::
-    :maxdepth: 1
-    :numbered:
-    :hidden:
-
     way_of_the_program.rst
     variables_expressions_statements.rst
     hello_little_turtles.rst
@@ -101,11 +95,6 @@ Source for this RLE version:  https://code.launchpad.net/~thinkcspy-rle-team/thi
     stacks.rst
     queues.rst
     trees.rst
-
-.. toctree::
-    :maxdepth: 1
-    :hidden:
-
     app_a.rst
     app_b.rst
     app_c.rst
