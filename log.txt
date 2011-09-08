@@ -1,0 +1,2973 @@
+------------------------------------------------------------
+revno: 422
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-09-07 05:20:14 +0200
+message:
+  Minor tweaks and corrections
+------------------------------------------------------------
+revno: 421
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-08-19 05:59:56 +0200
+message:
+  Fix some typos, some additions to the chapter on files
+------------------------------------------------------------
+revno: 420
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Thu 2011-08-18 14:13:50 +0200
+message:
+  Fix bug in code, found by Jan Hansel
+------------------------------------------------------------
+revno: 419
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-27 16:32:22 +0200
+message:
+  Fix wrong variable in exercise
+------------------------------------------------------------
+revno: 418
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-07-18 05:40:24 +0200
+message:
+  Add my email and source URL on index page
+------------------------------------------------------------
+revno: 417
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sun 2011-07-17 07:51:42 +0200
+message:
+  Point readers to OpenBookProject node for thinkcspy
+------------------------------------------------------------
+revno: 416
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sat 2011-07-16 09:29:29 +0200
+message:
+  Ignore some local resources
+------------------------------------------------------------
+revno: 415
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-15 09:40:14 +0200
+message:
+  Work around the use of __cmp__ which is removed from Python 3
+------------------------------------------------------------
+revno: 414
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-15 09:30:03 +0200
+message:
+  Work around the use of __cmp__ which is removed from Python 3
+------------------------------------------------------------
+revno: 413
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-15 08:40:19 +0200
+message:
+  Put the sets chapter back ahead of inheritance, like it always was!
+------------------------------------------------------------
+revno: 412 [merge]
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-15 07:36:43 +0200
+message:
+  Incorportate Sam's changes
+------------------------------------------------------------
+revno: 411
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-15 07:32:35 +0200
+message:
+  Add section on animation to PyGame chapter
+------------------------------------------------------------
+revno: 410
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Thu 2011-07-14 08:18:31 +0200
+message:
+  Add missing references to all diagrams in linked list chapter.  Thanks to Sam for catching this.
+------------------------------------------------------------
+revno: 409
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 18:12:14 +0200
+message:
+  fix spelling error
+------------------------------------------------------------
+revno: 408 [merge]
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 14:11:31 +0200
+message:
+  Incorporate Sam's latest fixes.
+------------------------------------------------------------
+revno: 407
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 14:00:14 +0200
+message:
+  Change fdl addendum to section
+------------------------------------------------------------
+revno: 406
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 11:31:14 +0200
+message:
+  Fix formatting issue
+------------------------------------------------------------
+revno: 405
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 11:17:23 +0200
+message:
+  Update the RLE preface
+------------------------------------------------------------
+revno: 404
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 10:58:56 +0200
+message:
+  Add name to copyright notice.
+------------------------------------------------------------
+revno: 403
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Wed 2011-07-13 10:14:36 +0200
+message:
+  As a sop to latex, have trimmed many places that were overflowing page boundaries. 
+------------------------------------------------------------
+revno: 402 [merge]
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-07-12 16:53:34 +0200
+message:
+  Merge Sam's changes from repository
+------------------------------------------------------------
+revno: 401
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-07-12 16:39:22 +0200
+message:
+  First iteration of chapter on PyGame completed.
+------------------------------------------------------------
+revno: 400
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-07-11 12:43:02 +0200
+message:
+  Completed the first iteration of the new chapter on list_algorithms.
+------------------------------------------------------------
+revno: 399
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sun 2011-07-10 09:49:27 +0200
+message:
+  Delete some duplicate exercises, WIP commit only to test launchpad push.
+------------------------------------------------------------
+revno: 398
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sun 2011-07-10 09:34:24 +0200
+message:
+  Work-in-progress commit to allow us to restructure launchpad project ownership.
+------------------------------------------------------------
+revno: 397
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sat 2011-07-09 08:18:18 +0200
+message:
+  Fix some typos.
+------------------------------------------------------------
+revno: 396
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-08 17:04:51 +0200
+message:
+  Add new section and new exercise to OOP to try to emphasize modifiable state in the objects.
+  Small tweaks on the file chapter.
+------------------------------------------------------------
+revno: 395
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-07-08 07:52:35 +0200
+message:
+  Tidying up after refactoring Tuples into its own chapter.
+------------------------------------------------------------
+revno: 394
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Thu 2011-07-07 16:10:14 +0200
+message:
+  More refactoring of chapters.  Split recursion and exceptions into two different chapters, same with modules and files, and took section about tuples into a chapter of its own.  Have not yet teased apart all the glossary terms and exercises, but work is in progress.
+------------------------------------------------------------
+revno: 393
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Thu 2011-07-07 11:31:03 +0200
+message:
+  Rename chaper files to give them semantic names rather than chapter numbers.
+  This will make it easier to swap the order of chapters, omit chapters,
+  include new ones, etc.
+------------------------------------------------------------
+revno: 392
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Thu 2011-07-07 10:49:06 +0200
+message:
+  Added skeletons for two new chapters (list algorithms and PyGame) and rearranged
+  chapters to introduce objects earlier.  This is work-in-progress: the next move
+  is to rename all the chapters.
+------------------------------------------------------------
+revno: 391
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-07-05 17:21:38 +0200
+message:
+  Add a new example to the chapter about events and state machines.
+------------------------------------------------------------
+revno: 390
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-07-05 14:25:36 +0200
+message:
+  Added a new chapter before chapter 9 of textbook, to introduce some event-driven programming.
+------------------------------------------------------------
+revno: 389
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-07-05 14:22:53 +0200
+message:
+  Small tweaks and illustrations that were left behind.
+------------------------------------------------------------
+revno: 388
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-07-04 09:15:06 +0200
+message:
+  Python 3 shifted a lot of functionality from the "procedural" string module into 
+  string methods. I tried to follow that emphasis, cutting out the section on the 
+  string module and character classification.  Some other reorganization. 
+------------------------------------------------------------
+revno: 387
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-07-04 09:12:30 +0200
+message:
+  Some tweaks.  Introduced a section on paired data, as I try to shift a 
+  little more towards "data centric" processing, and to see if we
+  can motivate and get them to understand nested loops a bit better.
+------------------------------------------------------------
+revno: 386
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-07-04 09:09:24 +0200
+message:
+  Changes to try to introduce some non-numeric and math samples.
+  Also use non-formulae functions in examples (e.g. convert a 
+  day number into a day name), and use None as a return value
+  for any error cases or cases not in the function domain.
+------------------------------------------------------------
+revno: 385
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-06-14 03:30:20 +0200
+message:
+  Clean up errors reported by Sam Bald, and some polishing of the text.
+------------------------------------------------------------
+revno: 384
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-06-07 04:28:43 +0200
+message:
+  Illustration file names are case sensitive on some systems, my bad! 
+------------------------------------------------------------
+revno: 383
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-06-06 07:30:11 +0200
+message:
+  Small changes to simplify some parts of the text, some errors found by Sam Bald, 
+  and we've factored out some programs and included them, to make them downloadable.
+------------------------------------------------------------
+revno: 382
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Sun 2011-05-22 13:58:20 +0200
+message:
+  Replace clickonexit() in turtle examples with more useful mainloop().
+  The latter allows us to connect handers to window events, so we
+  can collect keypresses and mouse events.
+------------------------------------------------------------
+revno: 381
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-05-20 09:32:18 +0200
+message:
+  More errors found by Sam Bald.
+------------------------------------------------------------
+revno: 380
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-05-13 09:38:00 +0200
+message:
+  Errors picked up by Sam Bald.
+------------------------------------------------------------
+revno: 379
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Fri 2011-02-18 16:57:59 +0200
+message:
+  Cleaned up index terms, small other tweaks.
+------------------------------------------------------------
+revno: 378
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:36:48 +0200
+message:
+  Added some scaffolding for a workbook as a new Appendix B
+------------------------------------------------------------
+revno: 377
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:18:41 +0200
+message:
+  Deleted the appendix on GASP
+------------------------------------------------------------
+revno: 376
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:15:09 +0200
+message:
+  Appendix A updates to Python 3, and some changes.
+------------------------------------------------------------
+revno: 375
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:13:02 +0200
+message:
+  Chapter 21, Trees, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 374
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:07:31 +0200
+message:
+  Chapter 20, Queues, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 373
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 09:04:02 +0200
+message:
+  Chapter 19, Stacks, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 372
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 08:55:02 +0200
+message:
+  Chapter 18, Linked lists, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 371
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 08:54:11 +0200
+message:
+  Fix section break that is throwing off chapter numbering
+------------------------------------------------------------
+revno: 370
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 08:40:44 +0200
+message:
+  Chapter 17, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 369
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 08:30:58 +0200
+message:
+  Chapter 16, superficial Python 2 to Python 3 updates
+------------------------------------------------------------
+revno: 368
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 08:25:12 +0200
+message:
+  Update to Chapter 15, Even more OOP
+------------------------------------------------------------
+revno: 367
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 06:03:28 +0200
+message:
+  Small changes to chapter titles
+------------------------------------------------------------
+revno: 366
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 05:59:51 +0200
+message:
+  Updates to Ch14, Classes and Objects - Digging a little deeper.
+------------------------------------------------------------
+revno: 365
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 05:47:23 +0200
+message:
+  Updates to Ch13, Classes and Objects.  Changes represent quite a signficant shift how we want to start with objects.
+------------------------------------------------------------
+revno: 364
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Tue 2011-02-15 05:23:19 +0200
+message:
+  Updates to Ch12, Dictionaries
+------------------------------------------------------------
+revno: 363
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 22:20:36 +0200
+message:
+  Updates to Ch11, Recursion and Exceptions
+------------------------------------------------------------
+revno: 362
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 21:46:13 +0200
+message:
+  Updates to Ch10, Modules and Files
+------------------------------------------------------------
+revno: 361
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 17:02:58 +0200
+message:
+  Updates to Ch09 Lists
+------------------------------------------------------------
+revno: 360
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 14:40:30 +0200
+message:
+  Upgrades to Ch08 Strings
+------------------------------------------------------------
+revno: 359
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 14:37:39 +0200
+message:
+  Upgrades to Ch07 Iteration
+------------------------------------------------------------
+revno: 358
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 14:34:53 +0200
+message:
+  Upgrades to Ch06 Fruitful Functions
+------------------------------------------------------------
+revno: 357
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 08:37:05 +0200
+message:
+  Updates to Ch04
+------------------------------------------------------------
+revno: 356
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 07:07:54 +0200
+message:
+  Fix truncated line in ch05
+------------------------------------------------------------
+revno: 355
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 06:41:04 +0200
+message:
+  Changes to Ch05 Conditionals
+------------------------------------------------------------
+revno: 354
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 05:47:07 +0200
+message:
+  Various upgrades to accomodate Python 3, and some different emphasis.
+------------------------------------------------------------
+revno: 353
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 05:44:23 +0200
+message:
+  Updates to Ch01
+------------------------------------------------------------
+revno: 352
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 05:42:16 +0200
+message:
+  Renumbered chapters to make space to add new chapter 3 about turtles.  Added the new ch03.  Added the preface3 which was omitted in the previous commit.
+------------------------------------------------------------
+revno: 351
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 05:35:46 +0200
+message:
+  Deleted old chapter 8 - Case study of catch game using GASP
+------------------------------------------------------------
+revno: 350
+committer: Peter Wentworth <p.wentworth@ru.ac.za>
+branch nick: thinkcspy3-rle
+timestamp: Mon 2011-02-14 05:33:54 +0200
+message:
+  Modified title page and index, added preface-3 for this edition, committed all illustration changes
+------------------------------------------------------------
+revno: 349
+committer: jelkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Wed 2010-12-15 13:23:57 -0500
+message:
+  Added (Using Python 2.x) on front page in response to email from Sirus Dark <sirusdark@gmail.com> on 12-10-2010.
+------------------------------------------------------------
+revno: 348
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Thu 2010-11-25 10:11:23 -0500
+message:
+  Corrected error in ex. 15 of ch 9 reported by Sanjay Sharma <sanjay.t.sharma@gmail.com> in email on 11-21-2010.
+------------------------------------------------------------
+revno: 347
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-11-15 18:00:12 -0500
+message:
+  added missing 'find' to exercise 1 in chapter 1.
+------------------------------------------------------------
+revno: 346
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-11-15 17:57:19 -0500
+message:
+  Made changes to exercises 1 and 3 in chapter 1 as suggested by Christian Alis <calis@nip.upd.edu.ph> in an email on 11/14/10.
+------------------------------------------------------------
+revno: 345
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Sat 2010-11-13 11:35:15 -0500
+message:
+  fixed color.BLACK in appendix b in response to email from Sanjay Sharma <sanjay.t.sharma@gmail.com> on11/10/10. Removed Rect class from chapter 13 (prompted by email from Peter Alston <palsto0402@gmail.com> on 11/01/10)
+------------------------------------------------------------
+revno: 344
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-11-02 00:11:12 -0400
+message:
+  working on chapter 13. made small fixes in other chapters.
+------------------------------------------------------------
+revno: 343
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-09-14 17:00:53 -0400
+message:
+  More work on question 4 from chapter 1.  Changed 'it' to 'them' in question 6 of chapter 1.
+------------------------------------------------------------
+revno: 342
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-09-14 16:45:58 -0400
+message:
+  Changed exercise 4 from chapter 1 in response to an email from Jonah Keegan <denshi@gmail.com> on Tuesday, Sept. 4, 2010.
+------------------------------------------------------------
+revno: 341
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Wed 2010-09-08 07:06:19 -0400
+message:
+  fixed misspelling of 'Foreward' in copyright notice
+------------------------------------------------------------
+revno: 340
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-08-16 09:59:06 -0400
+message:
+  added new exercises to chapter 9.
+------------------------------------------------------------
+revno: 339
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Fri 2010-08-13 09:53:20 -0400
+message:
+  introduce vector terminalogy and wikipedia links to exercises in chapter 9.
+------------------------------------------------------------
+revno: 338
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Wed 2010-08-11 14:05:01 -0400
+message:
+  changed id to is in chapter 9.  worked on illustrations.
+------------------------------------------------------------
+revno: 337
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-08-09 09:16:46 -0400
+message:
+  moved 1st to exercises in chapter 7 back to summary section.
+------------------------------------------------------------
+revno: 336
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Fri 2010-08-06 15:14:31 -0400
+message:
+  fixing exercise markup
+------------------------------------------------------------
+revno: 335
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Fri 2010-08-06 12:01:52 -0400
+message:
+  cleaned up excersizes in chapter 2.  Moved illustrations in chapters 1 to 3 from svg to png.
+------------------------------------------------------------
+revno: 334
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Wed 2010-08-04 06:41:32 -0400
+message:
+  Added space to programming example in chapter 7 as reported by Peter Perosa <peter.perosa@gmail.com>in email of Aug 3, 2010.
+------------------------------------------------------------
+revno: 333
+committer: Jeffrey Elkner <jelkner@california>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-07-19 11:37:48 -0400
+message:
+  Fixed a broken reference in Chapter 9 as reported by Bob Sander-Cederlof <bobsc5@verizon.net> in email of 18 July 2010. Improved distance_formula.png image and added a svg version
+------------------------------------------------------------
+revno: 332
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sun 2010-07-18 08:58:14 -0400
+message:
+  Fixed spelling error in chapter 5 thanks to email from Bob Sander-Cederlof <bobsc5@verizon.net> on 17 July 2010.
+------------------------------------------------------------
+revno: 331
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Fri 2010-06-18 15:15:52 -0400
+message:
+  Fixed lots of spelling errors and typos as reported by Diego Barreiro <cuisdy@gmail.com> in his emails on Jun 17, 2010.
+------------------------------------------------------------
+revno: 330
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2010-06-10 07:53:39 -0400
+message:
+  fixed several typos as reported by Diego Barreiro <cuisdy@gmail.com> in email of June 9, 2010.
+------------------------------------------------------------
+revno: 329
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Thu 2010-05-27 07:07:36 -0400
+message:
+  Made edits to ch02 as suggested by Diego Barreiro <cuisdy@gmail.com> in email on May 26, 2010.  Finished alphabetizing glossaries in ch 7 to 10.
+------------------------------------------------------------
+revno: 328
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-05-25 08:43:12 -0400
+message:
+  Fixed spelling mistake in ch11.  Alphabetized glossaries in ch 2 to 6.
+------------------------------------------------------------
+revno: 327
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-05-10 06:25:29 -0400
+message:
+  improved description of 'tail recursion' in chapter 11
+------------------------------------------------------------
+revno: 326
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2010-05-06 14:06:21 -0400
+message:
+  Fixed spelling of 'Linked' in index.rst in response to email from Morgan Larosa <chaos95@gmail.com>.
+------------------------------------------------------------
+revno: 325
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2010-05-06 13:58:59 -0400
+message:
+  Changed chapter 11 presentation of tail recursion in response to 5-6-2010 email from Mike MacHenry <mike.machenry@gmail.com>.  Added indexing to chapter 11.  Added Mike MacHenry to contributors list.
+------------------------------------------------------------
+revno: 324
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Sat 2010-03-13 09:50:41 -0500
+message:
+  fixed Card class example in ch16 to include __init__ method in 2nd example.
+------------------------------------------------------------
+revno: 323
+committer: Jeffrey Elkner <jelkner@latitude>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-03-09 22:45:15 -0500
+message:
+  finished rst conversion for ch18-21, and debugging appendix.  added them to index.  rearranged appendices so that debugging comes 1st, gasp 2nd, setting up ubuntu 3rd, and customizing 4th.
+------------------------------------------------------------
+revno: 322
+committer: Jeffrey Elkner <jelkner@latitude>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-03-09 18:21:35 -0500
+message:
+  fixed rst in ch18 and moved it from not_ready to source.  added it to index.
+------------------------------------------------------------
+revno: 321
+committer: Jeffrey Elkner <jelkner@latitude>
+branch nick: thinkcspy2e
+timestamp: Tue 2010-03-09 18:05:01 -0500
+message:
+  moved ch16 and 17 from not_ready to source after finishing updating rst.  Added them to index.
+------------------------------------------------------------
+revno: 320
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-03-08 14:58:30 -0500
+message:
+  moved ch15.rst from not_ready to source.  added it to index.
+------------------------------------------------------------
+revno: 319
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2010-03-08 13:29:02 -0500
+message:
+  added chapter 14.
+------------------------------------------------------------
+revno: 318
+committer: Jeffrey Elkner <jelkner@latitude>
+branch nick: thinkcspy2e
+timestamp: Sat 2010-03-06 16:18:03 -0500
+message:
+  added wrap code in function def to ch 4.  added wikipedia links to ch 13.  added two students to contrib. indexed a few things.
+------------------------------------------------------------
+revno: 317
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sun 2010-01-10 09:07:25 -0500
+message:
+  fixed 2 typos in chapters 9 and 10 as reported by Alex Ehrlich (ahehrlich@gmail.com) in his emails of Jan. 8 and 9.
+------------------------------------------------------------
+revno: 316
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sat 2010-01-02 08:04:48 -0500
+message:
+  fixed typo in chapter 4 submitted by Alex Ehrlich (ahehrlich@gmail.com) in email on 12/31/09.  fixed launchpad bug #479244 in appendix a.
+------------------------------------------------------------
+revno: 315
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Mon 2009-12-14 22:29:53 -0500
+message:
+  fixed small typo in chapter 7 exercise.
+------------------------------------------------------------
+revno: 314
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-12-10 16:52:46 -0500
+message:
+  added more exercises to chapter 7
+------------------------------------------------------------
+revno: 313
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Tue 2009-12-08 07:48:37 -0500
+message:
+  added the word 'kernel' after 'Linux' in section 1.7 in response to an email from Michael Kesper on Dec 7, 2009.
+------------------------------------------------------------
+revno: 312
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-12-03 12:22:16 -0500
+message:
+  making chapter 7 more understandable.  fixed gasp intro in chapter 4 to use only scripts.
+------------------------------------------------------------
+revno: 311
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Sat 2009-11-07 16:29:14 -0500
+message:
+  Added sentence to intro of sequence function in chapter 6 explaining it is defined for positive integers.
+------------------------------------------------------------
+revno: 310
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Sat 2009-10-31 13:19:33 -0400
+message:
+  editing preface in response to email from jcyang@ymail.com.  Changed description of ex. 10 in Ch. 4 to 'Exploration'.
+------------------------------------------------------------
+revno: 309
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-10-25 22:50:15 -0400
+message:
+  added an exercise and edited the Gasp section of chapter 4 in response to student feedback.
+------------------------------------------------------------
+revno: 308
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-10-04 21:17:26 -0400
+message:
+  edited chapter 3 discussion of parameters for greater clarity.  Fixed a typo in chapter 12.
+------------------------------------------------------------
+revno: 307
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-10-04 10:51:36 -0400
+message:
+  added GASP appendix.. still needs editing.
+------------------------------------------------------------
+revno: 306
+committer: Jeffrey Elkner <jelkner@indiana>
+branch nick: thinkcspy
+timestamp: Wed 2009-09-30 08:43:13 -0400
+message:
+  adding app_b.rst
+------------------------------------------------------------
+revno: 305
+committer: Jeffrey Elkner <jelkner@indiana>
+branch nick: thinkcspy
+timestamp: Mon 2009-09-28 17:52:40 -0400
+message:
+  added new appendix on 'Customizing and Contributing to the Book'.
+------------------------------------------------------------
+revno: 304
+committer: Jeffrey Elkner <jelkner@ubuntu>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-09-20 09:55:33 -0400
+message:
+  improvement in print_square_root function from Chapter 4 as suggested by Bob Elders <bob.elders@gmail.com> in his email on Sept. 17, 2009.
+------------------------------------------------------------
+revno: 303
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Tue 2009-07-28 21:52:17 -0400
+message:
+  fixed errors in chapters 7 and 10 reported in 7/26/2009 email from Nanley Chery (nchery3@gatech.edu)
+------------------------------------------------------------
+revno: 302
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Mon 2009-07-27 22:45:29 -0400
+message:
+  made 'escape' key look better in ex 8.7
+------------------------------------------------------------
+revno: 301
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Mon 2009-07-27 22:33:56 -0400
+message:
+  fixed error in exercise 8.7 in response to email from Nanley Chery.
+------------------------------------------------------------
+revno: 300
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Tue 2009-07-14 23:47:02 -0400
+message:
+  changes to chapter 7 discovered while working on the spanish version
+------------------------------------------------------------
+revno: 299
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Tue 2009-07-14 20:39:42 -0400
+message:
+  added copyright info
+------------------------------------------------------------
+revno: 298
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-07-05 20:59:45 -0400
+message:
+  changes to ch07 as a result of working on the spanish version.
+------------------------------------------------------------
+revno: 297
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-07-05 20:26:46 -0400
+message:
+  added stack2.svg
+------------------------------------------------------------
+revno: 296
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-07-05 20:25:57 -0400
+message:
+  fixed spelling error in stack2.svg
+------------------------------------------------------------
+revno: 295
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Wed 2009-07-01 08:16:31 -0400
+message:
+  fixed error in question 4 of ch01 in response to email from justinebowers@gmail.com.
+------------------------------------------------------------
+revno: 294
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Sat 2009-06-27 09:47:13 -0400
+message:
+  added svg illustration to ch06.  Made several small fixes found working on spanish version.
+------------------------------------------------------------
+revno: 293
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-25 23:37:56 -0400
+message:
+  edited appendix a to update
+------------------------------------------------------------
+revno: 292
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-25 22:20:07 -0400
+message:
+  made fixes in ch02 discovered while working on spanish version.
+------------------------------------------------------------
+revno: 291
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-25 16:31:08 -0400
+message:
+  added new svg illustration to ch03.  Minor fixes to ch03 discovered working on spanish version.
+------------------------------------------------------------
+revno: 290
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-25 07:14:10 -0400
+message:
+  few small changes in ch02 discovered durning spanish translation
+------------------------------------------------------------
+revno: 289
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Wed 2009-06-24 07:20:31 -0400
+message:
+  used inkscape to generate svg illustrations for ch01.
+------------------------------------------------------------
+revno: 288
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2009-06-22 14:41:47 -0400
+message:
+  added missing robots1.png
+------------------------------------------------------------
+revno: 287
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Mon 2009-06-22 14:09:43 -0400
+message:
+  added gasp install info to chapter 4 to fix launchpad bug # 390402
+------------------------------------------------------------
+revno: 286
+committer: Jeffrey Elkner <jelkner@ubuntu>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-06-21 17:42:56 -0400
+message:
+  fixed subexercises in all chapters.
+------------------------------------------------------------
+revno: 285
+committer: Jeffrey Elkner <jelkner@ubuntu>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-06-21 16:57:47 -0400
+message:
+  added first working interdoc reference.  updated index markup.
+------------------------------------------------------------
+revno: 284
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Sun 2009-06-21 13:17:39 -0400
+message:
+  edited index references in chapter 1 and 2.
+------------------------------------------------------------
+revno: 283
+committer: Jeffrey Elkner <jelkner@ubuntu>
+branch nick: thinkcspy2e
+timestamp: Sat 2009-06-20 20:06:49 -0400
+message:
+  fixed index.rst toc's to only number the main chapters.
+------------------------------------------------------------
+revno: 282
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-18 13:24:28 -0400
+message:
+  added conf.py and stuff.
+------------------------------------------------------------
+revno: 281
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Wed 2009-06-17 18:33:17 -0400
+message:
+  now compiles with 0 warnings.  builds index from all chapter glossaries.  finished adding explicit index additions to chapter 1 to 5.
+------------------------------------------------------------
+revno: 280
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: thinkcspy2e
+timestamp: Tue 2009-06-16 20:19:09 -0400
+message:
+  rearranging and fixing working chapters to eliminate errors.
+------------------------------------------------------------
+revno: 279
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-11 16:55:54 -0400
+message:
+  working on chapter 13.
+------------------------------------------------------------
+revno: 278
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-11 10:48:24 -0400
+message:
+  finished editing chapter 12.
+------------------------------------------------------------
+revno: 277
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: thinkcspy2e
+timestamp: Thu 2009-06-11 00:58:09 -0400
+message:
+  finished chapter 11.
+------------------------------------------------------------
+revno: 276
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: thinkcspy2e
+timestamp: Wed 2009-06-10 17:08:48 -0400
+message:
+  more edits on chapter 10.
+------------------------------------------------------------
+revno: 275
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Wed 2009-06-10 15:52:56 -0400
+message:
+  finished editing chapter 10.
+------------------------------------------------------------
+revno: 274
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2009-06-10 01:54:34 -0400
+message:
+  worked on reST conversion of chapters up to 9.  Added illustrations.
+------------------------------------------------------------
+revno: 273
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: english2e
+timestamp: Tue 2009-06-09 17:29:55 -0400
+message:
+  finished reST conversion of chapters 3 and 4.
+------------------------------------------------------------
+revno: 272
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: english2e
+timestamp: Tue 2009-06-09 13:26:29 -0400
+message:
+  fixed reST markup in chapter 2.
+------------------------------------------------------------
+revno: 271
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: english2e
+timestamp: Thu 2009-06-04 16:57:50 -0400
+message:
+  corrected most reST markup errors in chapter 1.
+------------------------------------------------------------
+revno: 270
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: english2e
+timestamp: Thu 2009-06-04 15:42:40 -0400
+message:
+  moved over.css into index.xhtml and added it to the source directory.
+------------------------------------------------------------
+revno: 269
+committer: Jeffrey Elkner <jelkner@gopher>
+branch nick: english2e
+timestamp: Thu 2009-06-04 14:33:12 -0400
+message:
+  rearranging things for sphinx conversion.
+------------------------------------------------------------
+revno: 268
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2009-04-06 21:13:15 -0400
+message:
+  converted source from lore to reStructuredText
+------------------------------------------------------------
+revno: 267
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2009-04-06 09:49:38 -0400
+message:
+  fixed spelling of namespace in section 10.4 thanks to email from Wonsok Hwang
+------------------------------------------------------------
+revno: 266
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Tue 2009-01-06 21:49:55 -0500
+message:
+  more work on robots case study.  player can now win.
+------------------------------------------------------------
+revno: 265
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2009-01-04 14:34:42 -0500
+message:
+  adding robot collision detection to chapter 12 case study.
+------------------------------------------------------------
+revno: 264
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2009-01-04 11:23:00 -0500
+message:
+  changed pause() to update_when('key_pressed') to fix chapter 4.  Added lesson 9 solution to chapter 4 resources.  Thanks to Aviad Reich <avi.rei@gmail.com> for point out the error.
+------------------------------------------------------------
+revno: 263
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-12-07 17:42:13 -0500
+message:
+  changed the ppa from mattva01 to gasp-deb in appendix a
+------------------------------------------------------------
+revno: 262
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-11-17 00:53:23 -0500
+message:
+  started robots to junk section of chapter 12.
+------------------------------------------------------------
+revno: 261
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-11-17 00:15:56 -0500
+message:
+  added hint to exercccise 9 in chapter 9 in response to email from Michael Yates (mjyates@dslextreme.com).  Added another section to chapter 12.
+------------------------------------------------------------
+revno: 260
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-11-16 11:27:47 -0500
+message:
+  fixed syntax error in chapter 12 and added wikipedia links to chapter 1.
+------------------------------------------------------------
+revno: 259
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-11-16 11:18:47 -0500
+message:
+  added ex. 11 to chapter 12 and 'Adding junk' section.
+------------------------------------------------------------
+revno: 258
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-13 19:16:32 -0500
+message:
+  started 'Turning robots into junk' section.
+------------------------------------------------------------
+revno: 257
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-13 18:52:55 -0500
+message:
+  finished 'adding more robots' section of robots case study.
+------------------------------------------------------------
+revno: 256
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-13 18:13:59 -0500
+message:
+  working on ch12 robots case study.  adding step-by-step versions to resources/ch12.
+------------------------------------------------------------
+revno: 255
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-13 10:43:49 -0500
+message:
+  added robots2.py to resources/ch12 directory
+------------------------------------------------------------
+revno: 254
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-13 09:41:44 -0500
+message:
+  removed 2 semi-colons from a chapter 13 example in response to email from Fernando Jimenez (annyfe@gmail.com)
+------------------------------------------------------------
+revno: 253
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-11-07 18:41:45 -0500
+message:
+  few small edits to chapter 12.
+------------------------------------------------------------
+revno: 252
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-06 20:32:07 -0500
+message:
+  removed line brake from mattva01 ppa line.
+------------------------------------------------------------
+revno: 251
+committer: Jeffrey Elkner <jelkner@mdeicaza>
+branch nick: english2e
+timestamp: Thu 2008-11-06 20:28:53 -0500
+message:
+  updated appendix A from hardy to intrepid.
+------------------------------------------------------------
+revno: 250
+committer: Jeffrey Elkner <jelkner@ubuntu>
+branch nick: english2e
+timestamp: Mon 2008-10-20 16:42:34 -0400
+message:
+  fixed typo in section 7.7 sent in by marcvanhouteghem@gmail.com .
+------------------------------------------------------------
+revno: 249
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-08-06 10:17:12 -0400
+message:
+  changed inf to infile in chapter 10 thanks to email from Mior Sufian.
+------------------------------------------------------------
+revno: 248
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-08-06 10:06:48 -0400
+message:
+  fixed spelling error (seperator to separator) in chapter 9 as reported in email from Mior Sufian and error in code in section 8.4 (change y to ball_y) as reported in email from Joe Oettinger.
+------------------------------------------------------------
+revno: 247
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Sun 2008-07-27 10:39:21 -0400
+message:
+  changed EDITOR=vi to EDITOR=vim in response to feedback from Richard Battin.
+------------------------------------------------------------
+revno: 246
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-07-14 13:38:34 -0400
+message:
+  fixed the tile element in the template.
+------------------------------------------------------------
+revno: 245
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-07-02 22:06:00 -0400
+message:
+  changed Foreward to Foreword on cover page.
+------------------------------------------------------------
+revno: 244
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-06-27 11:00:23 -0400
+message:
+  edited first example in chapter 8 to fix errors reported by -> Terry <-
+------------------------------------------------------------
+revno: 243
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Thu 2008-06-26 20:33:50 -0400
+message:
+  Fixed 3 spelling errors and an ambiguous paragraph in response emails from Jeff Porten
+------------------------------------------------------------
+revno: 242
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2008-06-16 15:37:26 -0400
+message:
+  added multiple robots to chapter 12 case study
+------------------------------------------------------------
+revno: 241
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2008-06-16 14:30:30 -0400
+message:
+  added collision detection to Robots program in chapter 12
+------------------------------------------------------------
+revno: 240
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2008-06-13 15:01:45 -0400
+message:
+  removed link to gasp appendix until it stabalizes
+------------------------------------------------------------
+revno: 239
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-06-02 10:46:10 -0400
+message:
+  added Adding a robot section and 3 robot exercises to chaper 12
+------------------------------------------------------------
+revno: 238
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-06-02 10:16:44 -0400
+message:
+  added exercise to chapter 12
+------------------------------------------------------------
+revno: 237
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-06-02 09:58:45 -0400
+message:
+  working on chapter 12
+------------------------------------------------------------
+revno: 236
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-05-23 08:06:51 -0400
+message:
+  edited matrix code in chapter 12
+------------------------------------------------------------
+revno: 235
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-05-23 08:01:01 -0400
+message:
+  completed doctest exercise in chapter 12
+------------------------------------------------------------
+revno: 234
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-05-23 07:58:39 -0400
+message:
+  added doctest exercise to chapter 12
+------------------------------------------------------------
+revno: 233
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-05-21 11:38:22 -0400
+message:
+  added doctest exercise to chapter 12
+------------------------------------------------------------
+revno: 232
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-05-17 18:15:58 -0400
+message:
+  fixed typos in chapters 5 and 8
+------------------------------------------------------------
+revno: 231
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-05-17 17:35:30 -0400
+message:
+  replace < with &lt; and > with &gt; in chapter 12.  Edited cover page to remove robots case study and move Object Oriented Programming to chapter 13
+------------------------------------------------------------
+revno: 230
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-05-17 17:32:11 -0400
+message:
+  fixed typos in ch 9, 10, and 11.  Edited chapter 12.  Merged robots case study into chapter 12
+------------------------------------------------------------
+revno: 229
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-05-14 08:10:37 -0400
+message:
+  added a few colons to glossary entries in chapter 6.  resumed work on chapter 13
+------------------------------------------------------------
+revno: 228
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-05-14 07:15:44 -0400
+message:
+  added GFDL comment to index.xhtml cover page
+------------------------------------------------------------
+revno: 227
+committer: Jeffrey Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-05-14 07:07:55 -0400
+message:
+  added FDL to template.ptl
+------------------------------------------------------------
+revno: 226
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-04-16 14:56:14 -0400
+message:
+  added make executable to appendix a.
+------------------------------------------------------------
+revno: 225
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-04-16 13:42:41 -0400
+message:
+  added chapter 14 to table of contents.
+------------------------------------------------------------
+revno: 224
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2008-04-03 14:17:42 -0400
+message:
+  renamed friendslist.lore to index.lore in the friends list activity.
+------------------------------------------------------------
+revno: 223
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2008-04-02 20:54:24 -0400
+message:
+  added friendslist activity
+------------------------------------------------------------
+revno: 222
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2008-04-02 20:27:25 -0400
+message:
+  Added exception exercise to chapter 11.
+------------------------------------------------------------
+revno: 221
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Sat 2008-03-22 22:51:24 -0400
+message:
+  added fibonacci and factorial to chapter 11.  Started editing chapter 12.
+------------------------------------------------------------
+revno: 220
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2008-03-19 20:50:08 -0400
+message:
+  added appendices a and b to the archive.
+------------------------------------------------------------
+revno: 219
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2008-03-19 20:49:12 -0400
+message:
+  worked on appendix a, and chapter 13.
+------------------------------------------------------------
+revno: 218
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2008-03-19 15:27:44 -0400
+message:
+  finished change back to lore
+------------------------------------------------------------
+revno: 217
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2008-03-19 11:26:13 -0400
+message:
+  moved chapters 13 to 22 over to 14 to 23.  Inserted new case study chapter 13 - robots.  Changed index.xhtml and thinkCSpy.book files to reflect the change.
+------------------------------------------------------------
+revno: 216
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Tue 2008-03-18 19:37:01 -0400
+message:
+  fixed Gasp lessons to bring in line with gasp-0.2.0.1
+------------------------------------------------------------
+revno: 215
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Mon 2008-03-17 21:12:30 -0400
+message:
+  changed name of chapter 11 to Recursion and exceptions.
+------------------------------------------------------------
+revno: 214
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Mon 2008-03-17 21:11:19 -0400
+message:
+  added stack trace to chapter 3.  added exceptions to chapter 11.
+------------------------------------------------------------
+revno: 213
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Mon 2008-03-17 12:43:32 -0400
+message:
+  moved sys.argv back from chapter 11 to chapter 10.
+------------------------------------------------------------
+revno: 212
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2008-03-15 18:16:00 -0400
+message:
+  added ch04 and such...
+------------------------------------------------------------
+revno: 211
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2008-03-15 18:14:32 -0400
+message:
+  fixed a few typos.
+------------------------------------------------------------
+revno: 210
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Thu 2008-03-13 13:58:54 -0400
+message:
+  more editing on appendix a - renamed 'Configuring Ubuntu for Python Development'
+------------------------------------------------------------
+revno: 209
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Thu 2008-03-13 12:47:49 -0400
+message:
+  editing appendix files.  Removed unedited ones.  Added Appendix A: for Ubuntu setup.  Moved GASP to appendix b.
+------------------------------------------------------------
+revno: 208
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-03-12 15:04:05 -0400
+message:
+  fixed bugs in sum.py
+------------------------------------------------------------
+revno: 207
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-03-12 14:56:24 -0400
+message:
+  Finished chapter 11 text.  Only exercises left to finish.
+------------------------------------------------------------
+revno: 206
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-03-12 09:56:16 -0400
+message:
+  finished list comprehension section and added list comprehension and sys.argv exercises to chapter 11.
+------------------------------------------------------------
+revno: 205
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2008-03-11 10:29:42 -0400
+message:
+  renamed chap to ch. More work on ch11.  Added friendlist project to activities directory.
+------------------------------------------------------------
+revno: 204
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2008-03-10 14:47:15 -0400
+message:
+  fixed chapters 4 and 8 to make examples work with gasp-0.2 revision 40.
+------------------------------------------------------------
+revno: 203
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-03-10 08:16:38 -0400
+message:
+  moved argv from chapter10activities to chapter 11.
+------------------------------------------------------------
+revno: 202
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Fri 2008-03-07 16:18:22 -0500
+message:
+  worked on recursion section and added list comprehension section and case study: tree to chapter 11.
+------------------------------------------------------------
+revno: 201
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-03-03 07:34:20 -0500
+message:
+  fixed mix up of Fraction and fraction in Appendix C.
+------------------------------------------------------------
+revno: 200
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-02-29 11:29:51 -0500
+message:
+  fixed chapter 8 examples to work with gasp-0.2.x
+------------------------------------------------------------
+revno: 199
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-02-27 12:46:55 -0500
+message:
+  added more to recursion section - text and exercises - in chapter 11.
+------------------------------------------------------------
+revno: 198
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2008-02-25 15:03:12 -0500
+message:
+  First pass of chapter 11 completed.
+------------------------------------------------------------
+revno: 197
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-02-25 11:08:40 -0500
+message:
+  rearranged topics in chapter 11.
+------------------------------------------------------------
+revno: 196
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-02-15 08:20:28 -0500
+message:
+  added alice_words files.
+------------------------------------------------------------
+revno: 195
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-02-15 08:19:56 -0500
+message:
+  finished adding exercises to chapter 10.
+------------------------------------------------------------
+revno: 194
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-02-13 15:09:27 -0500
+message:
+  removed xhtml
+------------------------------------------------------------
+revno: 193
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-02-13 15:09:00 -0500
+message:
+  added files.
+------------------------------------------------------------
+revno: 192
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-02-13 15:08:24 -0500
+message:
+  adding more exercies to chapter 10 in response to student questions.
+------------------------------------------------------------
+revno: 191
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-02-10 22:54:52 -0500
+message:
+  adding file i/o exercises to chapter 10.
+------------------------------------------------------------
+revno: 190
+committer: Jeffrey Elkner <jelkner@hwinston>
+branch nick: english2e
+timestamp: Fri 2008-02-08 18:12:44 -0500
+message:
+  1st look at chapter 11.
+------------------------------------------------------------
+revno: 189
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2008-02-08 15:00:11 -0500
+message:
+  fixed several typos in chapter 10.
+------------------------------------------------------------
+revno: 188
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-02-08 12:04:30 -0500
+message:
+  editing the file i/o sections in chapter 10.
+------------------------------------------------------------
+revno: 187
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-02-06 15:43:00 -0500
+message:
+  added more exercises to chapter 10.
+------------------------------------------------------------
+revno: 186
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2008-02-05 15:45:39 -0500
+message:
+  last check-in for 2/5/2008.
+------------------------------------------------------------
+revno: 185
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2008-02-05 08:03:59 -0500
+message:
+  added string and list method exercise to chapter 10.
+------------------------------------------------------------
+revno: 184
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2008-02-04 14:16:58 -0500
+message:
+  added string and list method section to chapter 10.
+------------------------------------------------------------
+revno: 183
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-02-04 10:35:19 -0500
+message:
+  added exercise to chapter 10.
+------------------------------------------------------------
+revno: 182
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-02-03 16:03:21 -0500
+message:
+  added dot operator and list method sections to chapter 10.
+------------------------------------------------------------
+revno: 181
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-02-03 14:39:45 -0500
+message:
+  added activities folder and moved sys.argv and eval from chapter 10 into chapter 10 activities. Added namespace section to chapter 10.
+------------------------------------------------------------
+revno: 180
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2008-02-01 16:37:03 -0500
+message:
+  working on modules section of chapter 10.
+------------------------------------------------------------
+revno: 179
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2008-02-01 15:45:41 -0500
+message:
+  working on chapter 10.
+------------------------------------------------------------
+revno: 178
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-02-01 09:40:31 -0500
+message:
+  make changes to Makefile and index.xhtml
+------------------------------------------------------------
+revno: 177
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Thu 2008-01-31 12:56:43 -0500
+message:
+  added new stuff to chapter 10.
+------------------------------------------------------------
+revno: 176
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2008-01-30 14:38:19 -0500
+message:
+  corrected spelling of scalar.
+------------------------------------------------------------
+revno: 175
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-01-30 08:36:40 -0500
+message:
+  small fix in add_lists.
+------------------------------------------------------------
+revno: 174
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2008-01-30 06:31:57 -0500
+message:
+  added add_lists exercise and another doctest to matrix_mult.
+------------------------------------------------------------
+revno: 173
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Fri 2008-01-25 13:52:16 -0500
+message:
+  Finished exercises for chapter 9.
+------------------------------------------------------------
+revno: 172
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2008-01-24 21:36:20 -0500
+message:
+  finishing up exercises in chapter 9.
+------------------------------------------------------------
+revno: 171
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-01-23 08:09:44 -0500
+message:
+  
+  Moved first matrix exercise into new section on TDD.
+------------------------------------------------------------
+revno: 170
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 13:29:49 -0500
+message:
+  added another paragraph to chapter 5 expressing the need for import doctest; doctest.testmod() to
+  to run doctests.
+------------------------------------------------------------
+revno: 169
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 03:18:54 -0500
+message:
+  added triple quoted strings and better explaination of doctest to chapter 5.
+------------------------------------------------------------
+revno: 168
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 02:12:38 -0500
+message:
+  added comment about 4 spaces to body definition in chapter 4 and seperated the bzr push rule from the export to ibiblio in the Makefile.
+------------------------------------------------------------
+revno: 167
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 02:04:45 -0500
+message:
+  added emphasis to 4 space comment in chapter 3 and add bzr push to make export in Makefile.
+------------------------------------------------------------
+revno: 166
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 01:58:52 -0500
+message:
+  added comment about 4 spaces begin standard indent to chapter 3.
+------------------------------------------------------------
+revno: 165
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2008-01-21 01:52:13 -0500
+message:
+  added comment to exercise 1 in chapter 5.
+------------------------------------------------------------
+revno: 164
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-20 22:57:49 -0500
+message:
+  put missing from in chapter 6.10.
+------------------------------------------------------------
+revno: 163
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-20 20:29:31 -0500
+message:
+  updated original preface and fixed links.
+------------------------------------------------------------
+revno: 162
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-20 19:29:40 -0500
+message:
+  renamed .lore to .obp
+------------------------------------------------------------
+revno: 161
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-20 19:13:27 -0500
+message:
+  edited Makefile to repoint export and change html directory to xhtml.
+------------------------------------------------------------
+revno: 160
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-01-19 15:36:16 -0500
+message:
+  more work in ch 9 matrix exercises.
+------------------------------------------------------------
+revno: 159
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-01-19 14:17:55 -0500
+message:
+  edited make file to not include .bzrignore in tar ball.
+------------------------------------------------------------
+revno: 158
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-01-19 14:15:24 -0500
+message:
+  added exercises to chapter 9.
+------------------------------------------------------------
+revno: 157
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2008-01-16 14:07:38 -0500
+message:
+  added resouces directory and renamed old one to files2copy.
+------------------------------------------------------------
+revno: 156
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Wed 2008-01-16 14:06:49 -0500
+message:
+  editing chapter 10 -- and a few fixes from earlier chapters.
+------------------------------------------------------------
+revno: 155
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2008-01-16 08:23:39 -0500
+message:
+  added exercise to chapter 9.
+------------------------------------------------------------
+revno: 154
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-01-14 13:22:56 -0500
+message:
+  small changes and fixes throughout the book.
+------------------------------------------------------------
+revno: 153
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2008-01-14 08:13:59 -0500
+message:
+  added exercises to chapter 9.
+------------------------------------------------------------
+revno: 152
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-13 22:03:17 -0500
+message:
+  added exercise to chapter 9.
+------------------------------------------------------------
+revno: 151
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-13 21:20:33 -0500
+message:
+  fixed two typos.
+------------------------------------------------------------
+revno: 150
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-13 10:53:39 -0500
+message:
+  added chapter 12 to book file.
+------------------------------------------------------------
+revno: 149
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2008-01-13 10:47:55 -0500
+message:
+  added exercises to chapter 9.
+------------------------------------------------------------
+revno: 148
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-01-12 18:15:51 -0500
+message:
+  small fixes and work on chapter 10.
+------------------------------------------------------------
+revno: 147
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2008-01-12 18:03:54 -0500
+message:
+  added exercise to chapter 9.
+------------------------------------------------------------
+revno: 146
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Fri 2008-01-11 19:06:02 -0500
+message:
+  more work on chapters 9 and 10.
+------------------------------------------------------------
+revno: 145
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-01-11 10:36:36 -0500
+message:
+  moved argv and eval from chapter 9 to 10.
+------------------------------------------------------------
+revno: 144
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2008-01-11 08:08:58 -0500
+message:
+  rearranging topics in chapter 9.
+------------------------------------------------------------
+revno: 143
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2008-01-10 14:09:56 -0500
+message:
+  fixed Makefile
+------------------------------------------------------------
+revno: 142
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2008-01-10 14:08:59 -0500
+message:
+  Editing chapter 9 exercises.
+------------------------------------------------------------
+revno: 141
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-01-09 08:33:46 -0500
+message:
+  putting final touches on chapter 9.
+------------------------------------------------------------
+revno: 140
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2008-01-09 07:16:58 -0500
+message:
+  final sections and exercises in chapter 9.
+------------------------------------------------------------
+revno: 139
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2008-01-05 17:33:08 -0500
+message:
+  added eval to chapter 9.
+------------------------------------------------------------
+revno: 138
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 21:39:17 -0500
+message:
+  more edits on chapters 7.
+------------------------------------------------------------
+revno: 137
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 19:30:00 -0500
+message:
+  more fixes to chapter 6 exercises.
+------------------------------------------------------------
+revno: 136
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 19:21:49 -0500
+message:
+  changed file name in chapter 6 exercises for consistency.
+------------------------------------------------------------
+revno: 135
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 12:05:14 -0500
+message:
+  more fixes to chapter 5 exercises.
+------------------------------------------------------------
+revno: 134
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 11:42:41 -0500
+message:
+  Edited exercise section from chapter 5 for clarity.
+------------------------------------------------------------
+revno: 133
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 11:03:36 -0500
+message:
+  changed file name in chapter 4 exercise 6 for naming consistancy.
+------------------------------------------------------------
+revno: 132
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2008-01-01 10:16:21 -0500
+message:
+  Fixed chapter 4 for PEP 8 complience.
+------------------------------------------------------------
+revno: 131
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2007-12-27 00:36:20 -0500
+message:
+  changed new value to value in section 5.1 in response to user feedback.
+------------------------------------------------------------
+revno: 130
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2007-12-26 18:39:50 -0500
+message:
+  Rearranging topic in chapters 9, 10, 11, and 12.
+------------------------------------------------------------
+revno: 129
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Wed 2007-12-26 18:01:41 -0500
+message:
+  Editing chapter 9 to add files.  Changed title from Lists to Lists and files.
+------------------------------------------------------------
+revno: 128
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-12-21 13:46:02 -0500
+message:
+  added files to chapter 9.
+------------------------------------------------------------
+revno: 127
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-12-21 09:36:50 -0500
+message:
+  Completed first draft of chapter 8 case study.
+------------------------------------------------------------
+revno: 126
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-12-19 15:13:46 -0500
+message:
+  more editions to pong.py instructions.
+------------------------------------------------------------
+revno: 125
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-19 11:48:19 -0500
+message:
+  Added steps to the pong.py project instrustions.
+------------------------------------------------------------
+revno: 124
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2007-12-18 11:35:32 -0500
+message:
+  More work on pong.py project in chapter 8.
+------------------------------------------------------------
+revno: 123
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2007-12-18 08:18:49 -0500
+message:
+  added brief namespace discussion and intro to pong project to chapter 8.
+------------------------------------------------------------
+revno: 122
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-12-17 17:40:24 -0500
+message:
+  Fixed typo in chapter 7.
+------------------------------------------------------------
+revno: 121
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-12-17 14:13:21 -0500
+message:
+  Completed exercises in chapter 8.  Added heading for project: pong.
+------------------------------------------------------------
+revno: 120
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-12-14 15:14:08 -0500
+message:
+  adding exercises to the case study chapter 8.
+------------------------------------------------------------
+revno: 119
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-12-14 13:09:06 -0500
+message:
+  more work on case study.
+------------------------------------------------------------
+revno: 118
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-12-12 15:10:38 -0500
+message:
+  Chapter 8 catch.py completed.
+------------------------------------------------------------
+revno: 117
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-12-12 13:57:07 -0500
+message:
+  Completed body of Case Study Chapter 8.
+------------------------------------------------------------
+revno: 116
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-12 12:52:20 -0500
+message:
+  mostly finished chapter 8 case study.
+------------------------------------------------------------
+revno: 115
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-12 10:18:12 -0500
+message:
+  Case study work.
+------------------------------------------------------------
+revno: 114
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-12 08:44:13 -0500
+message:
+  add index link to chapter 6.  Continued working on case study chapter 8.
+------------------------------------------------------------
+revno: 113
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-12-07 13:59:53 -0500
+message:
+  added guess game example of break statement to chapter 8.
+------------------------------------------------------------
+revno: 112
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-12-07 11:46:39 -0500
+message:
+  Significant progress on catch case study.
+------------------------------------------------------------
+revno: 111
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2007-12-06 21:11:33 -0500
+message:
+  Added more examples to Chapter 8 Case Study.
+------------------------------------------------------------
+revno: 110
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-12-06 15:26:54 -0500
+message:
+  More work on chapter 8 case study.
+------------------------------------------------------------
+revno: 109
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-12-05 15:46:16 -0500
+message:
+  more work on catch chapter.
+------------------------------------------------------------
+revno: 108
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-05 13:04:07 -0500
+message:
+  switched chapters 7 and 8.
+------------------------------------------------------------
+revno: 107
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-05 09:23:51 -0500
+message:
+  More edits to chapter 7.
+------------------------------------------------------------
+revno: 106
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-05 09:19:45 -0500
+message:
+  changed > to &lt; in chapter 7.
+------------------------------------------------------------
+revno: 105
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-12-05 09:18:56 -0500
+message:
+  added mitt example to chapter 7.
+------------------------------------------------------------
+revno: 104
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-12-03 16:05:29 -0500
+message:
+  moved recursion to chapter 9. Worked on chapter 7.
+------------------------------------------------------------
+revno: 103
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-12-03 12:50:51 -0500
+message:
+  modified book file and index.xhtml to add chapters 7 and 11.
+------------------------------------------------------------
+revno: 102
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-12-02 22:02:24 -0500
+message:
+  edited index.xhtml to add chapter 10.
+------------------------------------------------------------
+revno: 101
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-12-02 22:00:08 -0500
+message:
+  Changed title of chapter 10 to "Tuples, modules, and recursion" in preparation for reorganizing chapters 9 and 10.
+------------------------------------------------------------
+revno: 100
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-12-02 21:47:56 -0500
+message:
+  Began adding recursion to chapter 9.
+------------------------------------------------------------
+revno: 99
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-12-02 21:09:17 -0500
+message:
+  added chris's catch to chapter 7.
+------------------------------------------------------------
+revno: 98
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-11-30 14:21:41 -0500
+message:
+  finished chapter 8.
+------------------------------------------------------------
+revno: 97
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-11-30 13:19:50 -0500
+message:
+  completed string formatting section of chapter 8 and added an exercise for it.  Changed cover.
+------------------------------------------------------------
+revno: 96
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-29 15:09:50 -0500
+message:
+  changed < to &lt;.h
+------------------------------------------------------------
+revno: 95
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-29 15:07:55 -0500
+message:
+  more work on string formatting section.
+------------------------------------------------------------
+revno: 94
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-11-28 16:00:33 -0500
+message:
+  more work on string formatting.
+------------------------------------------------------------
+revno: 93
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-11-28 14:54:35 -0500
+message:
+  worked on string formatting section of chapter 8.
+------------------------------------------------------------
+revno: 92
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2007-11-26 11:07:54 -0500
+message:
+  Edited contrib list to include HB students and change contact email.
+------------------------------------------------------------
+revno: 91
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2007-11-26 08:22:21 -0500
+message:
+  fixed special characters in algorithm section.
+------------------------------------------------------------
+revno: 90
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2007-11-26 08:15:57 -0500
+message:
+  Added algorithm section to chapter 6 and exercises to chapter 8.
+------------------------------------------------------------
+revno: 89
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-11-25 19:47:22 -0500
+message:
+  added exercises to chapter 8.
+------------------------------------------------------------
+revno: 88
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-11-25 19:13:35 -0500
+message:
+  changed source examples in chapter 8 to use abbreviated assignment.
+------------------------------------------------------------
+revno: 87
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-11-19 20:20:02 -0500
+message:
+  Fixed spelling mistake in cover page.  More changes to chapter 6.
+------------------------------------------------------------
+revno: 86
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-11-19 14:21:16 -0500
+message:
+  removed math module from chapter 6 and simplified table example.
+------------------------------------------------------------
+revno: 85
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2007-11-19 07:53:51 -0500
+message:
+  finished chapter 6 exercises.
+------------------------------------------------------------
+revno: 84
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2007-11-17 12:47:02 -0500
+message:
+  Finished adding text to Chapter 6.  Almost finished exercises.
+------------------------------------------------------------
+revno: 83
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2007-11-17 11:56:40 -0500
+message:
+  moved counter, increment, and decrement defs from ch8 to ch6.  Added additional loop examples to chapter 6.
+------------------------------------------------------------
+revno: 82
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-11-16 14:57:37 -0500
+message:
+  moved counter pattern from chapter 8 to chapter 6.
+------------------------------------------------------------
+revno: 81
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2007-11-15 19:10:32 -0500
+message:
+  added example and exercises to string chapter.
+------------------------------------------------------------
+revno: 80
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2007-11-15 17:49:01 -0500
+message:
+  added files to support new cover page.
+------------------------------------------------------------
+revno: 79
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Thu 2007-11-15 17:47:42 -0500
+message:
+  Switched to David Cox's front page design.
+------------------------------------------------------------
+revno: 78
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-15 14:19:57 -0500
+message:
+  added chapter 8 to cover page.
+------------------------------------------------------------
+revno: 77
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-11-05 16:27:51 -0500
+message:
+  added 2 more exercises to chapter 6.
+------------------------------------------------------------
+revno: 76
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-11-05 15:56:18 -0500
+message:
+  added close tag so chapter 6 would compile.
+------------------------------------------------------------
+revno: 75
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-11-05 15:54:49 -0500
+message:
+  added exercises to chapter 6.
+------------------------------------------------------------
+revno: 74
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Mon 2007-11-05 08:54:44 -0500
+message:
+  added trace section to chapter 6.
+------------------------------------------------------------
+revno: 73
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sat 2007-11-03 14:12:33 -0400
+message:
+  fixed 2 spelling mistakes in chapter 2.
+------------------------------------------------------------
+revno: 72
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-11-02 14:34:07 -0400
+message:
+  corrected syntax errors to enable build.
+------------------------------------------------------------
+revno: 71
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-11-02 14:29:21 -0400
+message:
+  edited index file
+------------------------------------------------------------
+revno: 70
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-11-02 14:26:34 -0400
+message:
+  moved chapters 7-21 to 8-22 and inserted new case study as chapter 7.
+------------------------------------------------------------
+revno: 69
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-01 16:36:55 -0400
+message:
+  changed title page to reflect Chris Meyer's rejoining the project.  more changes to chapter 6.
+------------------------------------------------------------
+revno: 68
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-01 14:54:34 -0400
+message:
+  added math module example to chapter 6.
+------------------------------------------------------------
+revno: 67
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-11-01 14:40:17 -0400
+message:
+  changed dir to help in math module section of chapter 6.
+------------------------------------------------------------
+revno: 66
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-10-28 20:41:28 -0400
+message:
+  Editing chapter 6.
+------------------------------------------------------------
+revno: 65
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-10-28 20:29:43 -0400
+message:
+  added GASP to chapter 6.
+------------------------------------------------------------
+revno: 64
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-10-28 18:40:20 -0400
+message:
+  added f2c and c2f exercises to chapter 5.  More edits on chapter 6.
+------------------------------------------------------------
+revno: 63
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Sat 2007-10-27 08:53:01 -0400
+message:
+  Editing chapter 6
+------------------------------------------------------------
+revno: 62
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-26 09:35:13 -0400
+message:
+  added export to Makefile and corrected exercise from Chapter 5.
+------------------------------------------------------------
+revno: 61
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Thu 2007-10-25 09:21:41 -0400
+message:
+  added illustrations and resources directories.
+------------------------------------------------------------
+revno: 60
+committer: Jeffrey Elkner <jelkner@tubman>
+branch nick: english2e
+timestamp: Thu 2007-10-25 09:20:46 -0400
+message:
+  Changed Makefile to build html directory.  Copied index.html and lib to resources.
+------------------------------------------------------------
+revno: 59
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-10-24 14:50:33 -0400
+message:
+  fixed spelling errors in chapter 5.
+------------------------------------------------------------
+revno: 58
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-10-24 13:41:22 -0400
+message:
+  removed last exercise from chapter 5.
+------------------------------------------------------------
+revno: 57
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-24 12:49:42 -0400
+message:
+  Completed editing existing exercised in chapter 5 to use doctests.
+------------------------------------------------------------
+revno: 56
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-24 08:23:45 -0400
+message:
+  Improved exercise readability in chapter 5.
+------------------------------------------------------------
+revno: 55
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-24 08:17:59 -0400
+message:
+  added missing </p>
+------------------------------------------------------------
+revno: 54
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-24 08:15:50 -0400
+message:
+  added doctest section to chapter 5.  working on exercises to include doctest.
+------------------------------------------------------------
+revno: 53
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-24 08:13:37 -0400
+message:
+  added doctest section to chapter 5.  working on exercises to include doctest.
+------------------------------------------------------------
+revno: 52
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-10-22 20:21:59 -0400
+message:
+  fix syntax error in chapter 5.
+------------------------------------------------------------
+revno: 51
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Mon 2007-10-22 20:20:11 -0400
+message:
+  Small fixes in chapter 4 and big changes to chapter 5.
+------------------------------------------------------------
+revno: 50
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Tue 2007-10-16 19:53:17 -0400
+message:
+  editing chapter 5
+------------------------------------------------------------
+revno: 49
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-10-15 15:02:19 -0400
+message:
+  fixed spelling of divisible in chapter 4.
+------------------------------------------------------------
+revno: 48
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-10-12 15:47:56 -0400
+message:
+  removed recursion from chapter 5 and 6.
+------------------------------------------------------------
+revno: 47
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-10-12 15:02:50 -0400
+message:
+  removed recursion from chapter 5.
+------------------------------------------------------------
+revno: 46
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-12 07:56:55 -0400
+message:
+  changed ol to ul in last exercise in chapter 4.
+------------------------------------------------------------
+revno: 45
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-12 07:55:29 -0400
+message:
+  edits on last exercise in chapter 4.
+------------------------------------------------------------
+revno: 44
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-12 07:52:24 -0400
+message:
+  fixed 2nd gasp illustration.
+------------------------------------------------------------
+revno: 43
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-12 07:44:25 -0400
+message:
+  added paragraph tags around images in chapters 1 to 4.
+------------------------------------------------------------
+revno: 42
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-10-12 07:40:53 -0400
+message:
+  added intro to gasp and a gasp exercise to chapter 4.
+------------------------------------------------------------
+revno: 41
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-10-10 13:51:20 -0400
+message:
+  added appendix f
+------------------------------------------------------------
+revno: 40
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-10-10 13:49:55 -0400
+message:
+  removed tkinter and gasp exercised and merged doctest exercises into appendix.
+------------------------------------------------------------
+revno: 39
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-10-10 13:42:22 -0400
+message:
+  moved the appendices down and added gasp reference as appendix a
+------------------------------------------------------------
+revno: 38
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-10 12:51:21 -0400
+message:
+  began gasp section in chapter 4
+------------------------------------------------------------
+revno: 37
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-10 11:06:58 -0400
+message:
+  Removed recursion from chapter 4
+------------------------------------------------------------
+revno: 36
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-10-03 10:05:03 -0400
+message:
+  minor bug in chapter 2
+------------------------------------------------------------
+revno: 35
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 23:14:40 -0400
+message:
+  first pass on chapter 5.
+------------------------------------------------------------
+revno: 34
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 18:20:56 -0400
+message:
+  more minor fixes to chapters 3 and 4 to integrate use of import and shell for testing.
+------------------------------------------------------------
+revno: 33
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:55:34 -0400
+message:
+  fixed exercises in chapter 4 to reflect availability of import from chapter 3.
+------------------------------------------------------------
+revno: 32
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:48:56 -0400
+message:
+  fixed import definition in chapter 3.
+------------------------------------------------------------
+revno: 31
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:45:35 -0400
+message:
+  modified last exercise in chapter 3.
+------------------------------------------------------------
+revno: 30
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:37:02 -0400
+message:
+  syntax errors fixed in chapter 3 markup.
+------------------------------------------------------------
+revno: 29
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:32:12 -0400
+message:
+  added import to chapter 3 (really this time ;-)
+------------------------------------------------------------
+revno: 28
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 17:16:16 -0400
+message:
+  added exercises and definitions to chapters 3 and 4.  Added import section to chapter 3.
+------------------------------------------------------------
+revno: 27
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-09-30 12:53:33 -0400
+message:
+  Edits on chapter 2, 3, and 4.
+------------------------------------------------------------
+revno: 26
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-09-28 14:59:22 -0400
+message:
+  more cleaning up of chapter 3
+------------------------------------------------------------
+revno: 25
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-09-28 14:17:57 -0400
+message:
+  clarified parameter/argument relationship in chapter 3q.
+------------------------------------------------------------
+revno: 24
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Fri 2007-09-28 14:16:44 -0400
+message:
+  clarified parameter/argument relationship in chapter 3.
+------------------------------------------------------------
+revno: 23
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Fri 2007-09-28 07:53:26 -0400
+message:
+  removed Functions with results section from chapter 3.
+------------------------------------------------------------
+revno: 22
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Wed 2007-09-26 14:54:56 -0400
+message:
+  changed print_line to new_line in example in chapter 1
+------------------------------------------------------------
+revno: 21
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-09-26 08:05:32 -0400
+message:
+  edits to chap 4
+------------------------------------------------------------
+revno: 20
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-09-26 07:49:12 -0400
+message:
+  completed 1st draft of new chapter 3.
+------------------------------------------------------------
+revno: 19
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2007-09-25 18:51:23 -0400
+message:
+  more chapter 3 work.
+------------------------------------------------------------
+revno: 18
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2007-09-25 09:54:03 -0400
+message:
+  fixed keyword table in chapter 2
+------------------------------------------------------------
+revno: 17
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Tue 2007-09-25 09:16:25 -0400
+message:
+  more work on chapter 3
+------------------------------------------------------------
+revno: 16
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-09-24 20:48:55 -0400
+message:
+  more chapter 3 editing...
+------------------------------------------------------------
+revno: 15
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Mon 2007-09-24 20:29:00 -0400
+message:
+  began major revision of chapter 3
+------------------------------------------------------------
+revno: 14
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-09-19 09:58:25 -0400
+message:
+  Fixed formatting inChapter 2 exercise.
+------------------------------------------------------------
+revno: 13
+committer: Jeff Elkner <jeff@elkner.net>
+branch nick: english2e
+timestamp: Wed 2007-09-19 09:43:17 -0400
+message:
+  added madlibs exercise to the end of Chapter 2.
+------------------------------------------------------------
+revno: 12
+committer: Jeffrey Elkner <jelkner@namibia>
+branch nick: english2e
+timestamp: Thu 2007-09-13 13:56:04 -0400
+message:
+  Small edits to chapter 1 and moved an exercise requiring assignment from chapter 1 to 2.
+------------------------------------------------------------
+revno: 11
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: english2e
+timestamp: Thu 2007-07-26 13:44:35 -0400
+message:
+  more work on chapter 12
+------------------------------------------------------------
+revno: 10
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: english2e
+timestamp: Tue 2007-07-24 12:41:43 -0400
+message:
+  worked on chapter 12
+------------------------------------------------------------
+revno: 9
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: english2e
+timestamp: Sun 2007-07-01 09:02:44 -0400
+message:
+  Added Ammar Nabulsi to the contributors list.
+------------------------------------------------------------
+revno: 8
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: english2e
+timestamp: Sun 2007-07-01 08:48:38 -0400
+message:
+  Made several correction per email from Ammar Nabulsi.
+------------------------------------------------------------
+revno: 7
+committer: Jeffrey Elkner <jelkner@struth>
+branch nick: english2e
+timestamp: Sun 2007-07-01 08:29:22 -0400
+message:
+  Changed unix to Unix per feedback from Ammar Nabulsi
+------------------------------------------------------------
+revno: 6
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-18 14:14:02 -0400
+message:
+  Add the .bzrignore file.
+------------------------------------------------------------
+revno: 5
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-18 14:07:22 -0400
+message:
+  Various edits to fix bugs sent in by readers.
+------------------------------------------------------------
+revno: 4
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-04 21:54:23 -0500
+message:
+  Removed html directory and changed < to &lt; and > to &gt; in source example.
+------------------------------------------------------------
+revno: 3
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-04 21:51:26 -0500
+message:
+  Changed blank to p in chapter 12 and made additional edits.
+------------------------------------------------------------
+revno: 2
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-04 21:15:06 -0500
+message:
+  Removed old09.lore
+------------------------------------------------------------
+revno: 1
+committer: Jeffrey Elkner <jelkner@robeson>
+branch nick: english2e
+timestamp: Sun 2007-03-04 21:11:28 -0500
+message:
+  Created bzr repository for the book.
+------------------------------------------------------------
+Use --include-merges or -n0 to see merged revisions.
